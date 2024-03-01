@@ -1,0 +1,75 @@
+---
+title: "Curso de Limpieza y Gestión de Datos con R"
+author: "David Murillo"
+format: html
+editor: visual
+---
+
+[<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
+
+En este curso, exploraremos técnicas avanzadas de limpieza y gestión de datos utilizando R, con un enfoque principal en la utilización del paquete tidyverse. Desde el filtrado y selección de datos hasta la manipulación y transformación de conjuntos de datos complejos, aprenderemos a utilizar las herramientas proporcionadas por tidyverse para realizar tareas clave en el preprocesamiento de datos.
+
+# Inscripciones
+
+<!-- Start Badges -->
+
+| [Whapsapp](http://wa.me/+50499549551) \| [Facebook](https://www.facebook.com/Hn.Biology.Investigation?mibextid=ZbWKwL) \| [email](admi@hnbiology.org) \| [website](https://www.hnbiology.org/) \|
+
+<!-- End Badges -->
+
+# Costos de Inscripción:
+
+-   Inversión en USD (Dólares estadounidenses): 30 USD.
+
+-   Inversión para hondureños: 700 Lempiras hondureños.
+
+# Métodos de Pago:
+
+-   Pago Internacional por [PayPal](https://www.paypal.com/paypalme/hnbiologyinv) .
+
+-   Pago para hondureños por Banco Atlántida, BANPAÍS y BAC Honduras: Por favor, solicita la información pertinente.
+
+-   Otras formas de pago:
+
+[MoneyGram](https://www.moneygram.com/mgo/us/es/send/como-enviar-dinero/enviar-en-linea/).
+
+[DineroExpress](https://www.dineroexpress.com/WebPortalDexDigital/)
+
+# Modalidades del Curso:
+
+-   Modalidad Asincrónica: Descripción: Tendrás acceso a nuestra plataforma educativa donde encontrarás tutoriales detallados para cada tema del curso. Además, tendrás acceso a todos los materiales y recursos necesarios para tu aprendizaje. Incluye tres asesorías individuales de una hora cada una con nuestros asesores.
+
+-   Modalidad en Vivo: Descripción: Durante el año, ofreceremos 3 o 4 cursos en vivo a través de la plataforma Zoom. Estos cursos serán impartidos en tiempo real y también tendrás acceso a la plataforma educativa con las grabaciones de cada clase y todos los recursos necesarios para tu aprendizaje.
+
+# Certificación:
+
+-   Al finalizar exitosamente el curso y completar las actividades asignadas, recibirás un certificado emitido por nuestra institución. Todas las actividades serán entregadas y revisadas por nuestros instructores para garantizar la calidad del aprendizaje y la validez del certificado.
+
+# Descripción del Curso:
+
+En este curso, profundizaremos en el proceso de limpieza y gestión de datos utilizando R, centrándonos en las capacidades ofrecidas por el paquete tidyverse. Comenzaremos con una introducción a las herramientas básicas de tidyverse y luego avanzaremos hacia técnicas más avanzadas para la manipulación de datos. A lo largo del curso, exploraremos diversos aspectos del preprocesamiento de datos, incluido el filtrado de datos, la selección de variables, la transformación de datos, la unión de conjuntos de datos y la reestructuración de datos en formatos longitudinales y anchos. Al finalizar el curso, los participantes estarán equipados con las habilidades necesarias para realizar eficazmente la limpieza y gestión de datos utilizando R y tidyverse.
+
+# Temas que Cubriremos:
+
+[Introducción a tidyverse y conceptos básicos de limpieza de datos]().
+
+[Unión de conjuntos de datos y manipulación avanzada]()
+
+[Reestructuración de datos y formatos longitudinales y anchos]()
+
+[Visualización de datos y exploración de patrones]()
+
+[Uso de Rmarkdown: Rnotebook y Quarto]()
+
+[Uso de la plataforma Git y GitHub]()
+
+
+# Metodología de Enseñanza:
+
+Nuestro enfoque educativo se basa en la práctica activa y el aprendizaje interactivo. A lo largo del curso, trabajarás en ejercicios prácticos y proyectos que te permitirán aplicar directamente lo que aprendas. Además, tendrás acceso a recursos complementarios y a un equipo de instructores dedicados que te brindarán apoyo individualizado cuando sea requerido.
+
+# Requisitos Previos:
+
+Se requiere haber completado el curso de [nivel básico](https://hn-biology-investigation.github.io/TemarioCursoAnalisisEstadisticoBasico/) o uno similar.
+
+![HN Biology Investigation Academy](HN%20Cursos%20publicidad/HN%20Biology%20Inv%20large.jpg)
